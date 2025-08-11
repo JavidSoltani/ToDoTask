@@ -1,0 +1,11 @@
+G:\Javid\Project\ToDoTask\ToDoTask.Domain\bin\Debug\net9.0\ToDoTask.Domain.deps.json
+G:\Javid\Project\ToDoTask\ToDoTask.Domain\bin\Debug\net9.0\ToDoTask.Domain.dll
+G:\Javid\Project\ToDoTask\ToDoTask.Domain\bin\Debug\net9.0\ToDoTask.Domain.pdb
+G:\Javid\Project\ToDoTask\ToDoTask.Domain\obj\Debug\net9.0\ToDoTask.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\Javid\Project\ToDoTask\ToDoTask.Domain\obj\Debug\net9.0\ToDoTask.Domain.AssemblyInfoInputs.cache
+G:\Javid\Project\ToDoTask\ToDoTask.Domain\obj\Debug\net9.0\ToDoTask.Domain.AssemblyInfo.cs
+G:\Javid\Project\ToDoTask\ToDoTask.Domain\obj\Debug\net9.0\ToDoTask.Domain.csproj.CoreCompileInputs.cache
+G:\Javid\Project\ToDoTask\ToDoTask.Domain\obj\Debug\net9.0\ToDoTask.Domain.dll
+G:\Javid\Project\ToDoTask\ToDoTask.Domain\obj\Debug\net9.0\refint\ToDoTask.Domain.dll
+G:\Javid\Project\ToDoTask\ToDoTask.Domain\obj\Debug\net9.0\ToDoTask.Domain.pdb
+G:\Javid\Project\ToDoTask\ToDoTask.Domain\obj\Debug\net9.0\ref\ToDoTask.Domain.dll

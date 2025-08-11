@@ -1,0 +1,12 @@
+G:\Javid\Project\ToDoTask\ToDoTask.Application\bin\Debug\net9.0\ToDoTask.Application.deps.json
+G:\Javid\Project\ToDoTask\ToDoTask.Application\bin\Debug\net9.0\ToDoTask.Application.dll
+G:\Javid\Project\ToDoTask\ToDoTask.Application\bin\Debug\net9.0\ToDoTask.Application.pdb
+G:\Javid\Project\ToDoTask\ToDoTask.Application\obj\Debug\net9.0\ToDoTask.Application.GeneratedMSBuildEditorConfig.editorconfig
+G:\Javid\Project\ToDoTask\ToDoTask.Application\obj\Debug\net9.0\ToDoTask.Application.AssemblyInfoInputs.cache
+G:\Javid\Project\ToDoTask\ToDoTask.Application\obj\Debug\net9.0\ToDoTask.Application.AssemblyInfo.cs
+G:\Javid\Project\ToDoTask\ToDoTask.Application\obj\Debug\net9.0\ToDoTask.Application.csproj.CoreCompileInputs.cache
+G:\Javid\Project\ToDoTask\ToDoTask.Application\obj\Debug\net9.0\ToDoTask.Application.dll
+G:\Javid\Project\ToDoTask\ToDoTask.Application\obj\Debug\net9.0\refint\ToDoTask.Application.dll
+G:\Javid\Project\ToDoTask\ToDoTask.Application\obj\Debug\net9.0\ToDoTask.Application.pdb
+G:\Javid\Project\ToDoTask\ToDoTask.Application\obj\Debug\net9.0\ref\ToDoTask.Application.dll
+G:\Javid\Project\ToDoTask\ToDoTask.Application\obj\Debug\net9.0\ToDoTask.Application.csproj.AssemblyReference.cache
